@@ -144,3 +144,10 @@ cython_debug/
 # static files generated from Django application using `collectstatic`
 media
 static
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-test-calculator.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/.gitignore
